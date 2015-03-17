@@ -1,0 +1,11 @@
+{
+    "name": "acme/mini-forum",
+    "type": "library",
+    "description": "Forum",
+    "keywords": ["forum"],
+    "autoload": {
+        "psr-4": {
+			"MiniForum\\": "src/MiniForum"
+		}
+    }
+}
